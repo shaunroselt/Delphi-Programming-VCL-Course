@@ -1,1 +1,1 @@
-# Delphi-Programming-VCL-Course
+# Delphi Programming (VCL) Course
